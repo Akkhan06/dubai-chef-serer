@@ -7,7 +7,35 @@
         "rating": "4.5",
         "chef_image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683059203~exp=1683059803~hmac=7fcdbde78f7daa966635042188649fbb9a35433b1b88c2f37d5911323e3ff95c",
         "num_recipes": "25",
-        "likes": "500"
+        "likes": "500",
+        "bio": "Season chicken with salt and pepper. Heat oil in an oven-safe skillet over medium-high heat. Add chicken",
+        "recipes": [
+          {
+            "category_id": "6",
+            "id": "16",
+            "image": "https://farm5.static.flickr.com/4013/4703242780_7a5331cf49_c.jpg",
+            "recipe_name": "Spinach and Feta Stuffed Chicken Breast",
+            "cooking_method": "Preheat oven to 375°F. Butterfly chicken breasts and pound to an even thickness. In a bowl, combine spinach, feta cheese, garlic, and salt. Spread mixture over one half of each chicken breast. Fold chicken in half and secure with toothpicks. Season chicken with salt and pepper. Heat oil in an oven-safe skillet over medium-high heat. Add chicken and cook for 3-4 minutes on each side. Transfer skillet to oven and bake for 15-20 minutes or until chicken is cooked through.",
+            "rating": "4.2"
+          },
+          {
+            "category_id": 6,
+            "id": 17,
+            "image": "https://live.staticflickr.com/4239/35645484962_2ca21d0206_c.jpg",
+            "recipe_name": "Roasted Vegetable Quinoa Bowl",
+            "cooking_method": "Preheat oven to 425°F. Toss sliced vegetables with olive oil, salt, and pepper. Roast vegetables in a single layer ona baking sheet for 20-25 minutes or until tender and golden brown. In a small saucepan, combine quinoa and water. Bring to a boil, reduce heat to low, and simmer for 15-20 minutes or until quinoa is tender and liquid is absorbed. Divide quinoa among bowls. Top with roasted vegetables and sprinkle with feta cheese and chopped herbs.",
+            
+            "rating": 4.3
+          },
+          {
+            "category_id": 6,
+            "id": 18,
+            "image": "https://live.staticflickr.com/5318/5867646912_344cdfe55e_b.jpg",
+            "recipe_name": "Sweet Potato Black Bean Chili",
+            "cooking_method": "Heat oil in a large pot over medium heat. Add onions, garlic, and bell peppers and cook until tender. Add chili powder, cumin, and smoked paprika and cook for 1-2 minutes. Add diced sweet potatoes, canned tomatoes, black beans, and vegetable broth. Bring to a simmer and cook for 20-25 minutes or until sweet potatoes are tender. Serve hot, topped with sour cream and chopped cilantro.",
+            "rating": 4.6
+          }
+        ]
       },
       {
         "id": "2",
@@ -16,7 +44,34 @@
         "rating": "4.2",
         "chef_image": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-isolated-pink-wall-with-copy-space_141793-101303.jpg?t=st=1683043873~exp=1683044473~hmac=ec26dbf5b020c4c36b9c09a6168c3acfe1b77a93582391b875b9b68262550795",
         "num_recipes": "15",
-        "likes": "350"
+        "likes": "350",
+        "bio": "Season chicken with salt and pepper. Heat oil in an oven-safe skillet over medium-high heat. Add chicken",
+        "recipes": [
+          {
+            "category_id": 2,
+            "id": 4,
+            "image": "https://live.staticflickr.com/65535/49112479191_0bc5d90d00_c.jpg",
+            "recipe_name": "Lasagna",
+            "cooking_method": "Preheat the oven to 375°F. Cook the lasagna noodles according to package directions. Meanwhile, heat the olive oil in a large skillet over medium heat. Add the onion and garlic and cook until softened. Add the ground beef and cook until browned. Stir in the tomato sauce and season with salt and pepper to taste. In a separate bowl, mix together the ricotta, egg, and parsley. Spread a thin layer of the beef and tomato sauce in the bottom of a baking dish. Add a layer of noodles, followed by a layer of the ricotta mixture and shredded mozzarella. Repeat layers, ending with a layer of the beef and tomato sauce. Cover with foil and bake for 25 minutes. Remove the foil and bake for an additional 25 minutes, or until the cheese is melted and bubbly.",
+            "rating": 4.4
+          },
+          {
+            "category_id": 2,
+            "id": 5,
+            "image": "https://live.staticflickr.com/4143/4873515350_af038b20f0_c.jpg",
+            "recipe_name": "Chicken Alfredo",
+            "cooking_method": "Preheat the oven to 375°F. Cook the lasagna noodles according to package directions. Meanwhile, heat the olive oil in a large skillet over medium heat. Add the onion and garlic and cook until softened. Add the ground beef and cook until browned. Stir in the tomato sauce and season with salt and pepper to taste. In a separate bowl, mix together the ricotta, egg, and parsley. Spread a thin layer of the beef and tomato sauce in the bottom of a baking dish. Add a layer of noodles, followed by a layer of the ricotta mixture and shredded mozzarella. Repeat layers, ending with a layer of the beef and tomato sauce. Cover with foil and bake for 25 minutes. Remove the foil and bake for an additional 25 minutes, or until the cheese is melted and bubbly.",
+            "rating": "4.4"
+          },
+          {
+            "category_id": 2,
+            "id": 6,
+            "image": "https://farm5.static.flickr.com/4013/4703242780_7a5331cf49_c.jpg",
+            "recipe_name": "Beef Stroganoff",
+            "cooking_method": "Slice beef into thin strips. Heat oil in a large skillet over medium-high heat. Add beef and cook until browned. Remove from skillet and set aside. Add onions and mushrooms to the same skillet and cook until tender. Add beef broth, Worcestershire sauce, and tomato paste to the skillet. Add beef and sour cream to the skillet and stir until combined. Serve over egg noodles.",
+            "rating": 4.1
+          }
+        ]
       },
       {
         "id": "3",
@@ -25,7 +80,34 @@
         "rating": "4.7",
         "chef_image": "https://t4.ftcdn.net/jpg/02/75/08/67/360_F_275086757_IOm8iBG3AB0qFje2d0VsjhZo6U3mNXQW.jpg",
         "num_recipes": "20",
-        "likes": "600"
+        "likes": "600",
+        "bio": "Season chicken with salt and pepper. Heat oil in an oven-safe skillet over medium-high heat. Add chicken",
+        "recipes": [
+          {
+            "category_id": 3,
+            "id": 7,
+            "image": "https://live.staticflickr.com/4239/35645484962_2ca21d0206_c.jpg",
+            "recipe_name": "Chicken Parmesan",
+            "cooking_method": "Preheat oven to 400°F. Place flour in a shallow bowl. In another shallow bowl, whisk eggs. In a third shallow bowl, combine breadcrumbs, Parmesan cheese, salt, and pepper. Dip each chicken breast in flour, then egg, and then breadcrumb mixture. Place chicken on a baking sheet and bake for 20 minutes. Remove from oven, spoon marinara sauce over chicken, and sprinkle with mozzarella cheese. Bake for an additional 10-15 minutes or until cheese is melted and bubbly.",
+            "rating": 4.3
+          },
+          {
+            "category_id": 3,
+            "id": 8,
+            "image": "https://live.staticflickr.com/5318/5867646912_344cdfe55e_b.jpg",
+            "recipe_name": "Shrimp Scampi",
+            "cooking_method": "Cook pasta according to package directions. In a large skillet, melt butter over medium heat. Add garlic and red pepper flakes and cook until fragrant. Add shrimp and cook until pink. Remove shrimp from skillet and set aside. Add wine and lemon juice to skillet and simmer until reduced by half. Stir in parsley and shrimp. Serve over pasta.",
+            "rating": 4.6
+          },
+          {
+            "category_id": 3,
+            "id": 9,
+            "image": "https://farm1.static.flickr.com/141/401551663_0ad3b03eb0_c.jpg",
+            "recipe_name": "Beef and Broccoli Stir-Fry",
+            "cooking_method": "Slice beef into thin strips. In a bowl, whisk together soy sauce, brown sugar, cornstarch, ginger, garlic, and red pepper flakes. In a large skillet or wok, heat oil over high heat. Add beef and cook until browned. Remove from skillet and set aside. Add broccoli and carrots to the same skillet and cook until tender. Add beef broth and soy sauce mixture to the skillet. Bring to a boil and cook until sauce thickens. Add beef and stir to combine.",
+            "rating": 4.2
+          }
+        ]
       },
       {
         "id": "4",
@@ -34,7 +116,34 @@
         "rating": "4.0",
         "chef_image": "https://t4.ftcdn.net/jpg/03/38/15/77/360_F_338157703_iOpKB5lrs2JBGfTzUSam5xXwc79EHLWp.webp",
         "num_recipes": "10",
-        "likes": "200"
+        "likes": "200",
+        "bio": "Season chicken with salt and pepper. Heat oil in an oven-safe skillet over medium-high heat. Add chicken",
+        "recipes": [
+          {
+            "category_id": 4,
+            "id": 10,
+            "image": "https://farm5.static.flickr.com/4009/4310085575_63e6ac95de_c.jpg",
+            "recipe_name": "Taco Salad",
+            "cooking_method": "In a large skillet, cook ground beef over medium heat until browned. Drain excess fat. Add taco seasoning and water to skillet. Cook for 5-7 minutes. In a large bowl, combine lettuce, tomatoes, cheese, and olives. Add beef mixture to bowl and toss to combine. Serve with tortilla chips and salsa.",
+            "rating": 4.0
+          },
+          {
+            "category_id": 4,
+            "id": 11,
+            "image": "https://live.staticflickr.com/4239/35645484962_2ca21d0206_c.jpg",
+            "recipe_name": "Chicken Parmesan",
+            "cooking_method": "Preheat oven to 400°F. Place flour in a shallow bowl. In another shallow bowl, whisk eggs. In a third shallow bowl, combine breadcrumbs, Parmesan cheese, salt, and pepper. Dip each chicken breast in flour, then egg, and then breadcrumb mixture. Place chicken on a baking sheet and bake for 20 minutes. Remove from oven, spoon marinara sauce over chicken, and sprinkle with mozzarella cheese. Bake for an additional 10-15 minutes or until cheese is melted and bubbly.",
+            "rating": 4.3
+          },
+          {
+            "category_id": 4,
+            "id": 12,
+            "image": "https://live.staticflickr.com/8373/8441974481_fd0ae25726_c.jpg",
+            "recipe_name": "Pesto Pasta",
+            "cooking_method": "Cook pasta according to package directions. In a blender or food processor, combine basil, garlic, pine nuts, Parmesan cheese, and olive oil. Process until smooth. Drain pasta and return to pot. Add pesto to pasta and toss to combine. Serve topped with additional Parmesan cheese.",
+            "rating": 4.4
+          }
+        ]
       },
       {
         "id": "5",
@@ -43,7 +152,35 @@
         "rating": "4.9",
         "chef_image": "https://t4.ftcdn.net/jpg/02/55/56/43/360_F_255564376_jrP7JCENc7MfEvgtG0toxTCkJSL53QZc.jpg",
         "num_recipes": "30",
-        "likes": "800"
+        "likes": "800",
+        "bio": "Season chicken with salt and pepper. Heat oil in an oven-safe skillet over medium-high heat. Add chicken",
+        "recipes": [
+          {
+            "category_id": 5,
+            "id": 13,
+            "image": "https://live.staticflickr.com/4143/4873515350_af038b20f0_c.jpg",
+            "recipe_name": "Caprese Salad",
+            "cooking_method": "Arrange sliced tomatoes and fresh mozzarella on a platter. Drizzle with olive oil and balsamic vinegar. Sprinkle with salt and pepper. Top with chopped fresh basil.",
+            "rating": 4.7
+          },
+          {
+            "category_id": 5,
+            "id": 14,
+            "image": "https://live.staticflickr.com/65535/49112479191_0bc5d90d00_c.jpg",
+            "recipe_name": "Vegetable Stir-Fry",
+            "cooking_method": "Heat oil in a large skillet or wok over high heat. Add sliced vegetables and stir-fry for 3-4 minutes. In a small bowl, whisk together soy sauce, honey, garlic, and ginger. Pour sauce over vegetables and stir-fry for an additional 2-3 minutes. Serve over rice or noodles.",
+            "rating": 4.1
+            
+          },
+          {
+            "category_id": 5,
+            "id": 15,
+            "image": "https://live.staticflickr.com/4143/4873515350_af038b20f0_c.jpg",
+            "recipe_name": "Mushroom Risotto",
+            "cooking_method": "In a large saucepan, heat oil over medium heat. Add onions and cook until tender. Add rice and cook, stirring constantly, for 2-3 minutes. Add wine and cook until liquid is absorbed. Add broth, 1/2 cup at a time, stirring constantly and waiting until each addition is absorbed before adding more. After 20-25 minutes, rice should be tender and creamy. Stir in mushrooms, Parmesan cheese, and parsley. Serve hot.",
+            "rating": 4.5
+          }
+        ]
       },
       {
         "id": "6",
@@ -52,7 +189,34 @@
         "rating":" 4.4",
         "chef_image": "https://t3.ftcdn.net/jpg/01/13/34/20/360_F_113342061_KLCfBhgYSTi6J1g5qw5wmWQ6tA64a5wl.jpg",
         "num_recipes": "18",
-        "likes": "450"
+        "likes": "450",
+        "bio": "Season chicken with salt and pepper. Heat oil in an oven-safe skillet over medium-high heat. Add chicken",
+        "recipes": [
+          {
+            "category_id": 1,
+            "id": 1,
+            "image": "https://live.staticflickr.com/4239/35645484962_2ca21d0206_c.jpg",
+            "recipe_name": "Spaghetti Carbonara",
+            "cooking_method": "Cook the spaghetti according to package directions. Meanwhile, cook the pancetta in a large skillet over medium heat until crisp. Add garlic and cook for 1 minute. In a separate bowl, whisk together eggs and cheese. Drain the spaghetti and add it to the skillet with the pancetta. Remove from heat and stir in the egg mixture. Season with salt and pepper to taste.",
+            "rating": 4.5
+          },
+          {
+            "category_id": 1,
+            "id": 2,
+            "image": "https://live.staticflickr.com/8373/8441974481_fd0ae25726_c.jpg",
+            "recipe_name": "Baked Ziti",
+            "cooking_method": "Preheat the oven to 375°F. Cook the ziti according to package directions. Meanwhile, heat the olive oil in a large skillet over medium heat. Add the onion and garlic and cook until softened. Add the ground beef and cook until browned. Stir in the tomato sauce and season with salt and pepper to taste. In a separate bowl, mix together the ricotta, egg, and parsley. Drain the ziti and mix it with the beef and tomato sauce. Transfer to a baking dish and top with the ricotta mixture and shredded mozzarella. Bake for 25-30 minutes, or until the cheese is melted and bubbly.",
+            "rating": 4.2
+          },
+          {
+            "category_id": 1,
+            "id": 3,
+            "image": "https://live.staticflickr.com/4143/4873515350_af038b20f0_c.jpg",
+            "recipe_name": "Chicken Alfredo",
+            "cooking_method": "Cook the fettuccine according to package directions. Meanwhile, melt the butter in a large skillet over medium heat. Add the garlic and cook for 1 minute. Add the chicken and cook until browned and cooked through. Stir in the cream and Parmesan cheese. Season with salt and pepper to taste. Drain the fettuccine and add it to the skillet with the chicken and sauce. Toss to coat and serve.",
+            "rating": 4.7
+          }
+        ]
       }
     ]
   
